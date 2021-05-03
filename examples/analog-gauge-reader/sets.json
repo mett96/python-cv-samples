@@ -1,0 +1,72 @@
+{
+  "1": {
+    "min_angle": "45",
+    "max_angle": "320",
+    "min_value": "0",
+    "max_value": "200",
+    "units": "PSI"
+  },
+  "2": {
+    "min_angle": "45",
+    "max_angle": "320",
+    "min_value": "0",
+    "max_value": "200",
+    "units": "PSI"
+  },
+  "3": {
+    "min_angle": "45",
+    "max_angle": "315",
+    "min_value": "0",
+    "max_value": "40",
+    "units": "mbar"
+  },
+  "4": {
+    "min_angle": "45",
+    "max_angle": "315",
+    "min_value": "0",
+    "max_value": "100",
+    "units": "c"
+  },
+  "5": {
+    "min_angle": "50",
+    "max_angle": "310",
+    "min_value": "0",
+    "max_value": "250",
+    "units": "bar"
+  },
+  "6": {
+    "min_angle": "20",
+    "max_angle": "290",
+    "min_value": "-1",
+    "max_value": "2",
+    "units": "bar"
+  },
+  "7": {
+    "min_angle": "50",
+    "max_angle": "320",
+    "min_value": "0",
+    "max_value": "100",
+    "units": "psi"
+  },
+  "8": {
+    "min_angle": "40",
+    "max_angle": "320",
+    "min_value": "0",
+    "max_value": "120",
+    "units": "\u00b0c"
+  },
+  "10": {
+    "min_angle": "55",
+    "max_angle": "305",
+    "min_value": "0",
+    "max_value": "120",
+    "units": "\u00b0C"
+  },
+  "11": {
+    "min_angle": "40",
+    "max_angle": "320",
+    "min_value": "0",
+    "max_value": "120",
+    "units": "\u00b0C"
+  }
+}
